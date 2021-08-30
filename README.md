@@ -54,13 +54,13 @@ There are three folders in this repository
 
    There are different version of dataset in this repository. The main two dataset used in model training are:
 
-   - [Chinese dataset](https://github.com/JINGEWU/Master_Thesis/blob/main/data/CH.csv)： data/CH.csv 
+   - Chinese dataset： data/CH.csv 
 
-   - [English dataset](https://github.com/JINGEWU/Master_Thesis/blob/main/data/EN.csv): data/EN.csv 
+   - English dataset: data/EN.csv 
 
    We also provide the raw data and a full data before cleaning and filtering for future research, which are:
 
-   - [Chinese dataset](https://github.com/JINGEWU/Master_Thesis/tree/main/data/raw/CH):  
+   - Chinese dataset:  
 
      - data/raw/CH/choice_news_ustime.csv
 
@@ -70,7 +70,7 @@ There are three folders in this repository
 
        This is the Chinese data using China time zone. 
 
-   - [English dataset](https://github.com/JINGEWU/Master_Thesis/tree/main/data/raw/EN):
+   - English dataset:
 
      There are many files:
 
