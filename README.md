@@ -2,11 +2,8 @@
 
 ## Introduction
 
-This work investigates a textual-based sentiment analysis model by adopting the newly-devised Natural Language Processing (NLP) tools and performs the stock return prediction by integrating sentiment indices from different information sources, through applying the powerful sequential neural networks. During the experiment, we try different neural networks such as Convolutional Neural Network (CNN),  Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU) with different methods of word embedding such as Word2Vec and Bidirectional Encoder Representations from Transformers (BERT). Instead of English BERT model, this thesis also considers the implementation of Chinese BERT model, which intends to investigate the co-movement of Chinese financial market and U.S. financial market. Our research shows its power on predictability of equity return by using unstructured textual data which can support financial decisions. 
+This work investigates a textual-based sentiment analysis model by adopting the newly-devised Natural Language Processing (NLP) tools and performs the stock return prediction by integrating sentiment indices from different information sources, through applying the powerful sequential neural networks. 
 
-Full text of thesis can be found here: [https://github.com/JINGEWU/Financial-Sentiment-Analysis/blob/main/paper/Jinge_Wu_UCL_Thesis.pdf](https://github.com/JINGEWU/Financial-Sentiment-Analysis/blob/main/paper/Jinge_Wu_UCL_Thesis.pdf)
-
- In terms of the BERT model, this thesis applies Google’s [PAPER](https://arxiv.org/abs/1810.04805) which introduce BERT, a language model based on Transformer, to tackle NLP tasks in financial domain. It has achieved the state-of-the-art on sentiment analysis. 
 
 ## Experiment with 12 different models: 
 
@@ -82,9 +79,6 @@ There are three folders in this repository
 
      - Dataset from [Kaggle](https://www.kaggle.com/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests)
 
-3. Figure
-
-   This repository also contains some plots of results for your information.
 
 ## Set up
 
